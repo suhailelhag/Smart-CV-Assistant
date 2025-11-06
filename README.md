@@ -8,6 +8,10 @@ This is a desktop application designed to help users create professional CVs wit
 
 ## English
 
+<div align="center">
+  <a href="https://youtu.be/-EM_ZlJ6Kgk"><img src="https://img.youtube.com/vi/-EM_ZlJ6Kgk/0.jpg" alt="Watch Demo on YouTube"></a>
+</div>
+
 ### What the project does
 
 Smart CV Assistant is a desktop application that simplifies the process of creating a professional Curriculum Vitae (CV). It provides a user-friendly interface to input personal information, work experience, education, skills, and other relevant sections. The key feature is its integration with AI (like OpenAI's models) to help generate, refine, and translate CV content, making it easier for users to craft compelling descriptions for their roles and accomplishments. The final CV can be exported as a `.docx` file using various templates.
@@ -88,6 +92,10 @@ This project represents the first and final version maintained by Suhail, as its
 ---
 
 ## عربي
+
+<div align="center">
+  <a href="https://youtu.be/-EM_ZlJ6Kgk"><img src="https://img.youtube.com/vi/-EM_ZlJ6Kgk/0.jpg" alt="مشاهدة العرض على يوتيوب"></a>
+</div>
 
 ### عن المشروع
 
