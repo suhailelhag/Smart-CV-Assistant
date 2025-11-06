@@ -18,7 +18,7 @@ Smart CV Assistant is a desktop application that simplifies the process of creat
 *   **Easy to Use:** A simple graphical user interface (GUI) makes it easy to manage different sections of your CV.
 *   **Customizable Sections:** Users can add, remove, and reorder CV sections to fit their needs.
 *   **Template-Based:** Choose from different templates to generate a polished and professional-looking CV document.
-*   **Local Data Storage:** All your information is saved locally on your machine, ensuring privacy and easy access for future updates.
+*   **Local Data Storage:** All your information is saved locally on your machine, ensuring privacy and making it easy to modify your CV details in the future.
 
 ### How users can get started with the project
 
@@ -99,7 +99,7 @@ This project represents the first and final version maintained by Suhail, as its
 *   **سهل الاستخدام:** واجهة رسومية بسيطة تسهل إدارة أقسام سيرتك الذاتية المختلفة.
 *   **أقسام قابلة للتخصيص:** يمكن للمستخدمين إضافة وإزالة وإعادة ترتيب أقسام السيرة الذاتية لتناسب احتياجاتهم.
 *   **يعتمد على القوالب:** اختر من بين قوالب مختلفة لإنشاء سيرة ذاتية مصقولة وذات مظهر احترافي.
-*   **تخزين محلي للبيانات:** يتم حفظ جميع معلوماتك محليًا على جهازك، مما يضمن الخصوصية وسهولة الوصول للتحديثات المستقبلية.
+*   **تخزين محلي للبيانات:** يتم حفظ جميع معلوماتك محليًا على جهازك، مما يضمن الخصوصية ويسهل تعديل تفاصيل سيرتك الذاتية في المستقبل.
 
 ### كيف تبدأ باستخدام المشروع
 
