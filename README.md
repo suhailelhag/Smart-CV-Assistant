@@ -60,7 +60,7 @@ Smart CV Assistant is a desktop application that simplifies the process of creat
 ### Where users can get help with your project
 
 As this project is no longer actively maintained, new issues may not be addressed. However, you can review existing issues or open new ones for the benefit of other developers who may fork the project.
-`https://github.com/suhailelhag/Smart-CV-Assistant/issues`
+https://github.com/suhailelhag/Smart-CV-Assistant/issues
 
 ### Building from Source (Creating an .exe file)
 
@@ -145,7 +145,7 @@ This project represents the first and final version maintained by Suhail, as its
 ### أين يمكن الحصول على المساعدة
 
 بما أن هذا المشروع لم يعد قيد الصيانة النشطة، قد لا يتم التعامل مع المشاكل (issues) الجديدة. ومع ذلك، يمكنك مراجعة المشاكل الحالية أو فتح مشاكل جديدة لفائدة المطورين الآخرين الذين قد يقومون بعمل تفريع (fork) للمشروع.
-`https://github.com/suhailelhag/Smart-CV-Assistant/issues`
+https://github.com/suhailelhag/Smart-CV-Assistant/issues
 
 ### بناء ملف تنفيذي (إنشاء ملف .exe)
 
